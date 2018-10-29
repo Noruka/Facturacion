@@ -16,5 +16,10 @@ namespace EjercicioFinal___Sistema_de_facturacion
         {
             InitializeComponent();
         }
+        
+        private void btnAcceder_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
