@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace EjercicioFinal___Sistema_de_facturacion
+namespace Facturacion
 {
     static class Program
     {
@@ -16,8 +16,9 @@ namespace EjercicioFinal___Sistema_de_facturacion
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
-            Application.Run(new Facturacion.sistemaFacturacion());
+            Application.Run(new sistemaFacturacion());
+            Application.Run(new AboutMe.Form3());
+
         }
     }
 }

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CB7FF858-1991-4F77-8115-31A6A7AD690B}</ProjectGuid>
+    <ProjectGuid>{E25A4D07-49ED-4D4D-B987-91AB67C9D479}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>EjercicioFinal___Sistema_de_facturacion</RootNamespace>
-    <AssemblyName>EjercicioFinal - Sistema de facturacion</AssemblyName>
+    <RootNamespace>Facturacion</RootNamespace>
+    <AssemblyName>Facturacion</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -80,9 +80,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Facturacion\Facturacion.csproj">
-      <Project>{e25a4d07-49ed-4d4d-b987-91ab67c9d479}</Project>
-      <Name>Facturacion</Name>
+    <ProjectReference Include="..\AboutMe\AboutMe.csproj">
+      <Project>{20dca80b-c93d-4579-9e75-4d8b5028d02b}</Project>
+      <Name>AboutMe</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

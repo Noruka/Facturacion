@@ -1,0 +1,65 @@
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\EjercicioFinal - Sistema de facturacion.exe.config
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\EjercicioFinal - Sistema de facturacion.exe
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\EjercicioFinal - Sistema de facturacion.pdb
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csprojAssemblyReference.cache
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal___Sistema_de_facturacion.Form1.resources
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal___Sistema_de_facturacion.Properties.Resources.resources
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csproj.GenerateResource.cache
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csproj.CoreCompileInputs.cache
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal - Sistema de facturacion.exe
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal - Sistema de facturacion.pdb
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\Facturacion.exe
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\Facturacion.pdb
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\Facturacion.exe.config
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csproj.CopyComplete
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\EjercicioFinal - Sistema de facturacion.exe.config
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\EjercicioFinal - Sistema de facturacion.exe
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\EjercicioFinal - Sistema de facturacion.pdb
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\Facturacion.exe
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\Facturacion.pdb
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\Facturacion.exe.config
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csprojAssemblyReference.cache
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal___Sistema_de_facturacion.Form1.resources
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal___Sistema_de_facturacion.Properties.Resources.resources
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csproj.GenerateResource.cache
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csproj.CoreCompileInputs.cache
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csproj.CopyComplete
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal - Sistema de facturacion.exe
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal - Sistema de facturacion.pdb
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\AboutMe.exe
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\AboutMe.pdb
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\AboutMe.exe.config
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\EjercicioFinal - Sistema de facturacion.exe.config
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\EjercicioFinal - Sistema de facturacion.exe
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\EjercicioFinal - Sistema de facturacion.pdb
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\Facturacion.exe
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\AboutMe.exe
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\Facturacion.pdb
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\Facturacion.exe.config
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\AboutMe.pdb
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\AboutMe.exe.config
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csprojAssemblyReference.cache
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal___Sistema_de_facturacion.Form1.resources
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal___Sistema_de_facturacion.Properties.Resources.resources
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csproj.GenerateResource.cache
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csproj.CoreCompileInputs.cache
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csproj.CopyComplete
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal - Sistema de facturacion.exe
+D:\Google Drive Sync\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal - Sistema de facturacion.pdb
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\EjercicioFinal - Sistema de facturacion.exe.config
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\EjercicioFinal - Sistema de facturacion.exe
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\EjercicioFinal - Sistema de facturacion.pdb
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\Facturacion.exe
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\AboutMe.exe
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\Facturacion.pdb
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\Facturacion.exe.config
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\AboutMe.pdb
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Debug\AboutMe.exe.config
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csprojAssemblyReference.cache
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal___Sistema_de_facturacion.Form1.resources
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal___Sistema_de_facturacion.Properties.Resources.resources
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csproj.GenerateResource.cache
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csproj.CoreCompileInputs.cache
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\InicioDeSesion.csproj.CopyComplete
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal - Sistema de facturacion.exe
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Debug\EjercicioFinal - Sistema de facturacion.pdb

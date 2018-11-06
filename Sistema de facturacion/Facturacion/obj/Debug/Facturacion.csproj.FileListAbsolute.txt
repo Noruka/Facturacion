@@ -1,0 +1,38 @@
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.Properties.Resources.resources
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.cache
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.csproj.CoreCompileInputs.cache
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\Facturacion\bin\Debug\Facturacion.exe
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\Facturacion\bin\Debug\Facturacion.pdb
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.exe
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.pdb
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\bin\Debug\Facturacion.exe
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\bin\Debug\Facturacion.pdb
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.csprojAssemblyReference.cache
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.Properties.Resources.resources
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.cache
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.csproj.CoreCompileInputs.cache
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.exe
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.pdb
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.sistemaFacturacion.resources
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\Facturacion\bin\Debug\AboutMe.exe
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\Facturacion\bin\Debug\AboutMe.pdb
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\Facturacion\bin\Debug\AboutMe.exe.config
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.csprojAssemblyReference.cache
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.sistemaFacturacion.resources
+D:\Google Drive Sync\Primero\Projects\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.csproj.CopyComplete
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\Facturacion\bin\Debug\Facturacion.exe
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\Facturacion\bin\Debug\Facturacion.pdb
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\Facturacion\bin\Debug\AboutMe.exe
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\Facturacion\bin\Debug\AboutMe.pdb
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\Facturacion\bin\Debug\AboutMe.exe.config
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.csprojAssemblyReference.cache
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.sistemaFacturacion.resources
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.Properties.Resources.resources
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.cache
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.csproj.CoreCompileInputs.cache
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.csproj.CopyComplete
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.exe
+D:\Progresa\Primero\Projects\Entregas en rar\Sistema de facturacion\Facturacion\obj\Debug\Facturacion.pdb
