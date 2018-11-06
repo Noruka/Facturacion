@@ -1,0 +1,11 @@
+D:\Progresa\Primero\Projects\Sistema de facturacion\AboutMe\bin\Release\AboutMe.exe.config
+D:\Progresa\Primero\Projects\Sistema de facturacion\AboutMe\bin\Release\AboutMe.exe
+D:\Progresa\Primero\Projects\Sistema de facturacion\AboutMe\bin\Release\AboutMe.pdb
+D:\Progresa\Primero\Projects\Sistema de facturacion\AboutMe\obj\Release\AboutMe.Form3.resources
+D:\Progresa\Primero\Projects\Sistema de facturacion\AboutMe\obj\Release\AboutMe.Properties.Resources.resources
+D:\Progresa\Primero\Projects\Sistema de facturacion\AboutMe\obj\Release\AboutMe.csproj.GenerateResource.cache
+D:\Progresa\Primero\Projects\Sistema de facturacion\AboutMe\obj\Release\AboutMe.csproj.CoreCompileInputs.cache
+D:\Progresa\Primero\Projects\Sistema de facturacion\AboutMe\obj\Release\AboutMe.exe
+D:\Progresa\Primero\Projects\Sistema de facturacion\AboutMe\obj\Release\AboutMe.pdb
+D:\Progresa\Primero\Projects\Sistema de facturacion\AboutMe\bin\Release\AboutMe.exe.CodeAnalysisLog.xml
+D:\Progresa\Primero\Projects\Sistema de facturacion\AboutMe\bin\Release\AboutMe.exe.lastcodeanalysissucceeded

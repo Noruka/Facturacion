@@ -1,0 +1,16 @@
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\bin\Release\Facturacion.exe.config
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\bin\Release\Facturacion.exe
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\bin\Release\Facturacion.pdb
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\bin\Release\AboutMe.exe
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\bin\Release\AboutMe.pdb
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\bin\Release\AboutMe.exe.config
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Release\Facturacion.csprojAssemblyReference.cache
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Release\Facturacion.sistemaFacturacion.resources
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Release\Facturacion.Properties.Resources.resources
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Release\Facturacion.csproj.GenerateResource.cache
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Release\Facturacion.csproj.CoreCompileInputs.cache
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Release\Facturacion.csproj.CopyComplete
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Release\Facturacion.exe
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\obj\Release\Facturacion.pdb
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\bin\Release\Facturacion.exe.CodeAnalysisLog.xml
+D:\Progresa\Primero\Projects\Sistema de facturacion\Facturacion\bin\Release\Facturacion.exe.lastcodeanalysissucceeded
