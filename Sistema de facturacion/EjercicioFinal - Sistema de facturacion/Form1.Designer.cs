@@ -35,6 +35,8 @@
             this.txtContrasenya = new System.Windows.Forms.TextBox();
             this.btnAcceder = new System.Windows.Forms.Button();
             this.btnCancelar = new System.Windows.Forms.Button();
+            this.lbDebug1 = new System.Windows.Forms.Label();
+            this.lbDebug2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lbTitulo
@@ -77,6 +79,7 @@
             // 
             this.txtContrasenya.Location = new System.Drawing.Point(167, 100);
             this.txtContrasenya.Name = "txtContrasenya";
+            this.txtContrasenya.PasswordChar = '*';
             this.txtContrasenya.Size = new System.Drawing.Size(184, 20);
             this.txtContrasenya.TabIndex = 4;
             // 
@@ -88,6 +91,7 @@
             this.btnAcceder.TabIndex = 5;
             this.btnAcceder.Text = "Acceder";
             this.btnAcceder.UseVisualStyleBackColor = true;
+            this.btnAcceder.Click += new System.EventHandler(this.btnAcceder_Click);
             // 
             // btnCancelar
             // 
@@ -97,12 +101,31 @@
             this.btnCancelar.TabIndex = 6;
             this.btnCancelar.Text = "Cancelar";
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
+            // 
+            // lbDebug1
+            // 
+            this.lbDebug1.AutoSize = true;
+            this.lbDebug1.Location = new System.Drawing.Point(378, 74);
+            this.lbDebug1.Name = "lbDebug1";
+            this.lbDebug1.Size = new System.Drawing.Size(0, 13);
+            this.lbDebug1.TabIndex = 7;
+            // 
+            // lbDebug2
+            // 
+            this.lbDebug2.AutoSize = true;
+            this.lbDebug2.Location = new System.Drawing.Point(378, 103);
+            this.lbDebug2.Name = "lbDebug2";
+            this.lbDebug2.Size = new System.Drawing.Size(0, 13);
+            this.lbDebug2.TabIndex = 8;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(511, 195);
+            this.Controls.Add(this.lbDebug2);
+            this.Controls.Add(this.lbDebug1);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnAcceder);
             this.Controls.Add(this.txtContrasenya);
@@ -112,6 +135,7 @@
             this.Controls.Add(this.lbTitulo);
             this.Name = "Form1";
             this.Text = "Identificación";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -126,6 +150,8 @@
         private System.Windows.Forms.TextBox txtContrasenya;
         private System.Windows.Forms.Button btnAcceder;
         private System.Windows.Forms.Button btnCancelar;
+        private System.Windows.Forms.Label lbDebug1;
+        private System.Windows.Forms.Label lbDebug2;
     }
 }
 

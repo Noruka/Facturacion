@@ -1,0 +1,17 @@
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Release\EjercicioFinal - Sistema de facturacion.exe.config
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Release\EjercicioFinal - Sistema de facturacion.exe
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Release\EjercicioFinal - Sistema de facturacion.pdb
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Release\Facturacion.exe
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Release\AboutMe.exe
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Release\Facturacion.pdb
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Release\Facturacion.exe.config
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Release\AboutMe.pdb
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\bin\Release\AboutMe.exe.config
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Release\InicioDeSesion.csprojAssemblyReference.cache
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Release\EjercicioFinal___Sistema_de_facturacion.Form1.resources
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Release\EjercicioFinal___Sistema_de_facturacion.Properties.Resources.resources
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Release\InicioDeSesion.csproj.GenerateResource.cache
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Release\InicioDeSesion.csproj.CoreCompileInputs.cache
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Release\InicioDeSesion.csproj.CopyComplete
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Release\EjercicioFinal - Sistema de facturacion.exe
+D:\Progresa\Primero\Projects\Sistema de facturacion\EjercicioFinal - Sistema de facturacion\obj\Release\EjercicioFinal - Sistema de facturacion.pdb
